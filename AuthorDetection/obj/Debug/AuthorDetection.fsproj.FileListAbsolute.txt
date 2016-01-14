@@ -1,9 +1,0 @@
-C:\code\fsharp-meetup-dojo-20160113\AuthorDetection\bin\Debug\AuthorDetection.exe.config
-C:\code\fsharp-meetup-dojo-20160113\AuthorDetection\bin\Debug\AuthorDetection.XML
-C:\code\fsharp-meetup-dojo-20160113\AuthorDetection\bin\Debug\AuthorDetection.exe
-C:\code\fsharp-meetup-dojo-20160113\AuthorDetection\bin\Debug\AuthorDetection.pdb
-C:\code\fsharp-meetup-dojo-20160113\AuthorDetection\bin\Debug\FSharp.Core.dll
-C:\code\fsharp-meetup-dojo-20160113\AuthorDetection\bin\Debug\FSharp.Core.xml
-C:\code\fsharp-meetup-dojo-20160113\AuthorDetection\obj\Debug\AuthorDetection.fsprojResolveAssemblyReference.cache
-C:\code\fsharp-meetup-dojo-20160113\AuthorDetection\obj\Debug\AuthorDetection.exe
-C:\code\fsharp-meetup-dojo-20160113\AuthorDetection\obj\Debug\AuthorDetection.pdb
